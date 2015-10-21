@@ -4,7 +4,7 @@ body{
 
 #topBorder{
 	background-color: green;
-	border:solid 2px white;
+	border:solid 2px black;
 	width: 100%;
 	height: 120px;
 	position: fixed;
@@ -31,7 +31,7 @@ body{
 
 #slogan {
 	text-align:left;
-	color:white;
+	color:black;
 	font-family:comic;
 	font-weight:bold;
 	font-size: 12pt;
@@ -52,7 +52,7 @@ nav{
 nav ul{
 		list-style:none;
 		padding-left:0px;
-		color:white;
+		color:black;
 	}
 
 nav ul li {
@@ -69,7 +69,7 @@ nav ul li {
 }
 
 #mainContent{
-	float:right;
+	float:left;
 	height: 50%;
 	width: 50%;
 	margin-top: 50px;
@@ -77,12 +77,12 @@ nav ul li {
 
 #mainArea{
 	border:solid 1px;
-	float:left;
+	float:right;
 	padding-left: 120px;
 	padding-right: 120px;
 	margin-right: 50px;
 	margin-top: 49px;
-	background-color: orange;
+	background-color: white;
 	font-family: arial;
 }
 
